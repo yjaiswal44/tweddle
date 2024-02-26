@@ -280,7 +280,9 @@
         "plotNo": 13,
         "area": 712,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 46.07
       },
       "geometry": {
         "coordinates": [
@@ -343,7 +345,9 @@
         "plotNo": 12,
         "area": 955,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 23.02,
+        "width": 105.36
       },
       "geometry": {
         "coordinates": [
@@ -425,7 +429,9 @@
       "properties": {
         "plotNo": 11,
         "area": 910,
-        "available": "yes"
+        "available": "yes",
+        "front": 23.12,
+        "width": 51.53
       },
       "geometry": {
         "coordinates": [
@@ -489,7 +495,9 @@
       "properties": {
         "plotNo": 10,
         "area": 673,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 43.72
       },
       "geometry": {
         "coordinates": [
@@ -549,7 +557,9 @@
       "properties": {
         "plotNo": 9,
         "area": 745,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 43.72
       },
       "geometry": {
         "coordinates": [
@@ -585,7 +595,9 @@
       "properties": {
         "plotNo": 8,
         "area": 744,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 43.79
       },
       "geometry": {
         "coordinates": [
@@ -621,7 +633,9 @@
       "properties": {
         "plotNo": 7,
         "area": 744,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 43.76
       },
       "geometry": {
         "coordinates": [
@@ -657,7 +671,9 @@
       "properties": {
         "plotNo": 6,
         "area": 743,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 43.73
       },
       "geometry": {
         "coordinates": [
@@ -693,7 +709,9 @@
       "properties": {
         "plotNo": 5,
         "area": 743,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 43.71
       },
       "geometry": {
         "coordinates": [
@@ -729,7 +747,9 @@
       "properties": {
         "plotNo": 4,
         "area": 742,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 43.68
       },
       "geometry": {
         "coordinates": [
@@ -1039,7 +1059,9 @@
       "properties": {
         "plotNo": 3,
         "area": 742,
-        "available": "yes"
+        "available": "yes",
+        "front": 15.66,
+        "width": 43.65
       },
       "geometry": {
         "coordinates": [
@@ -1075,7 +1097,9 @@
       "properties": {
         "plotNo": 2,
         "area": 757,
-        "available": "yes"
+        "available": "yes",
+        "front": 17.07,
+        "width": 43.75
       },
       "geometry": {
         "coordinates": [
@@ -1125,7 +1149,9 @@
       "properties": {
         "plotNo": 1,
         "area": 775,
-        "available": "yes"
+        "available": "yes",
+        "front": 17.01,
+        "width": 45.33
       },
       "geometry": {
         "coordinates": [
@@ -1162,7 +1188,9 @@
         "plotNo": 22,
         "area": 490,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 14,
+        "width": 34.99
       },
       "geometry": {
         "coordinates": [
@@ -1199,7 +1227,9 @@
         "plotNo": 23,
         "area": 542,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 15.5,
+        "width": 35
       },
       "geometry": {
         "coordinates": [
@@ -1236,7 +1266,9 @@
         "plotNo": 24,
         "area": 753,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 21,
+        "width": 35.02
       },
       "geometry": {
         "coordinates": [
@@ -1272,7 +1304,9 @@
       "properties": {
         "plotNo": 25,
         "area": 749,
-        "available": "yes"
+        "available": "yes",
+        "front": 22.74,
+        "width": 35.02
       },
       "geometry": {
         "coordinates": [
@@ -1313,7 +1347,9 @@
         "plotNo": 21,
         "area": 557,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 17.27,
+        "width": 34.97
       },
       "geometry": {
         "coordinates": [
@@ -1354,7 +1390,9 @@
         "plotNo": 26,
         "area": 994,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 23.39,
+        "width": 42.5
       },
       "geometry": {
         "coordinates": [
@@ -1391,7 +1429,9 @@
         "plotNo": 27,
         "area": 808,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 19,
+        "width": 42.5
       },
       "geometry": {
         "coordinates": [
@@ -1427,7 +1467,9 @@
       "properties": {
         "plotNo": 20,
         "area": 769,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 44.78
       },
       "geometry": {
         "coordinates": [
@@ -1464,7 +1506,9 @@
         "plotNo": 28,
         "area": 808,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 19,
+        "width": 42.5
       },
       "geometry": {
         "coordinates": [
@@ -1501,7 +1545,9 @@
         "plotNo": 29,
         "area": 802,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 19,
+        "width": 42.5
       },
       "geometry": {
         "coordinates": [
@@ -1578,7 +1624,9 @@
         "plotNo": 30,
         "area": 691,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 19,
+        "width": 40.08
       },
       "geometry": {
         "coordinates": [
@@ -1649,7 +1697,9 @@
         "plotNo": 31,
         "area": 887,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 15.54,
+        "width": 50.15
       },
       "geometry": {
         "coordinates": [
@@ -1710,7 +1760,9 @@
         "plotNo": 32,
         "area": 854,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 14.21,
+        "width": 50.51
       },
       "geometry": {
         "coordinates": [
@@ -1779,7 +1831,9 @@
         "plotNo": 33,
         "area": 656,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 18,
+        "width": 38.7
       },
       "geometry": {
         "coordinates": [
@@ -1844,7 +1898,8 @@
         "plotNo": 34,
         "area": 759,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 42.86
       },
       "geometry": {
         "coordinates": [
@@ -1885,7 +1940,9 @@
         "plotNo": 35,
         "area": 772,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 18,
+        "width": 42.86
       },
       "geometry": {
         "coordinates": [
@@ -1922,7 +1979,9 @@
         "plotNo": 36,
         "area": 772,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 18,
+        "width": 42.86
       },
       "geometry": {
         "coordinates": [
@@ -1959,7 +2018,9 @@
         "plotNo": 37,
         "area": 772,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 18,
+        "width": 42.86
       },
       "geometry": {
         "coordinates": [
@@ -2009,7 +2070,9 @@
       "properties": {
         "plotNo": 19,
         "area": 753,
-        "available": "yes"
+        "available": "yes",
+        "front": 17.04,
+        "width": 43.86
       },
       "geometry": {
         "coordinates": [
@@ -2046,7 +2109,9 @@
         "plotNo": 38,
         "area": 814,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 19,
+        "width": 42.86
       },
       "geometry": {
         "coordinates": [
@@ -2083,7 +2148,9 @@
         "plotNo": 39,
         "area": 814,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 19,
+        "width": 42.86
       },
       "geometry": {
         "coordinates": [
@@ -2119,7 +2186,9 @@
       "properties": {
         "plotNo": 40,
         "area": 949,
-        "available": "yes"
+        "available": "yes",
+        "front": 22.86,
+        "width": 42.86
       },
       "geometry": {
         "coordinates": [
@@ -2317,7 +2386,9 @@
       "properties": {
         "plotNo": 18,
         "area": 888,
-        "available": "yes"
+        "available": "yes",
+        "front": 20,
+        "width": 46.18
       },
       "geometry": {
         "coordinates": [
@@ -2389,7 +2460,9 @@
       "properties": {
         "plotNo": 17,
         "area": 785,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 46.18
       },
       "geometry": {
         "coordinates": [
@@ -2495,7 +2568,9 @@
       "properties": {
         "plotNo": 16,
         "area": 785,
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 46.18
       },
       "geometry": {
         "coordinates": [
@@ -2588,7 +2663,9 @@
         "plotNo": 15,
         "area": 785,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 46.18
       },
       "geometry": {
         "coordinates": [
@@ -2667,7 +2744,9 @@
         "plotNo": 14,
         "area": 785,
         "MainRoad": "",
-        "available": "yes"
+        "available": "yes",
+        "front": 17,
+        "width": 46.07
       },
       "geometry": {
         "coordinates": [
